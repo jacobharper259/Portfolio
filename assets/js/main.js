@@ -75,3 +75,7 @@ function check(){
 		behavior:"smooth"
 	})
 }
+
+
+let penis = "long"
+
