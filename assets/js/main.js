@@ -77,5 +77,5 @@ function check(){
 }
 
 
-let penis = "long"
+let penis = "shooort"
 
