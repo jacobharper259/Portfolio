@@ -183,6 +183,18 @@ input, select, textarea {
 		font-size: 1.25em;
 		display:inline;
 	}
+	.chart{
+		display:grid;
+		grid-template-columns: 70% 30%; 
+	}
+	.chart p{
+		padding-left:1vw;
+		margin:0;
+		border: 1px solid black;
+		
+		
+	}
+	
 	a {
 		-moz-transition: color 0.25s ease-in-out, border-color 0.25s ease-in-out, background-color 0.25s ease-in-out;
 		-webkit-transition: color 0.25s ease-in-out, border-color 0.25s ease-in-out, background-color 0.25s ease-in-out;
