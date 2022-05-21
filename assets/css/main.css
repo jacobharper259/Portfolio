@@ -345,6 +345,9 @@ input, select, textarea {
 				justify-content: center;
 				padding-bottom: 20px;
 			}
+			ul.actions{
+				display:flex;
+			}
 
 		}
 
