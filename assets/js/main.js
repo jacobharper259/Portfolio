@@ -66,7 +66,7 @@
 })(jQuery);
 
 let projects =
-document.querySelector("#projects").addEventListener('click',check)
+
 
 function check(){
 	
